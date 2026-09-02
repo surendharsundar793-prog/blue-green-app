@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: green-app
-          image: surendharr/blue-green-app:8
+          image: surendharr/blue-green-app:PLACEHOLDER
 
           ports:
             - containerPort: 80
